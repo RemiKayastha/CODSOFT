@@ -6,3 +6,11 @@ I focused on creating a seamless and intuitive experience for users, ensuring a 
 ✅ Prominent CTA buttons for easy navigation
 ✅ Social login and sign-up options for convenience
 ✅ Accessibility and security as top priorities
+
+Rest Menu App (Task 2)
+I focused on creating an intuitive and visually appealing experience to enhance user engagement and satisfaction. Key features include:
+
+✅ Clean and appetizing layout to showcase dishes beautifully
+✅ Easy navigation with categorized menus and search functionality
+✅ High-quality images and detailed descriptions for each dish
+✅ Quick and simple ordering process for a seamless user experience
