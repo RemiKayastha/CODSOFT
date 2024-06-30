@@ -14,3 +14,12 @@ I focused on creating an intuitive and visually appealing experience to enhance 
 ✅ Easy navigation with categorized menus and search functionality
 ✅ High-quality images and detailed descriptions for each dish
 ✅ Quick and simple ordering process for a seamless user experience
+
+Ecommerce Website (Task 3)
+I have designed a seamless and captivating online shopping experience with these standout features:
+
+✅ Elegant and modern interface for a delightful browsing experience
+✅ Intuitive navigation with smart categories 
+✅ High-quality product visuals 
+✅ User friendly interface
+✅ Personalized recommendations and wishlists to enhance user engagement
